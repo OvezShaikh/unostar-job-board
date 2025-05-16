@@ -40,7 +40,7 @@ export default function JobApplicationModal({ isOpen, job, onClose }) {
         };
 
         const response = await fetch(
-          "/api/proxy",
+          "/api/submitApplication", 
           {
             method: "POST",
             body: JSON.stringify(payload),
