@@ -8,7 +8,7 @@ export default async function handler(req, res) {
 
   if (req.method === "POST") {
     const response = await fetch(
-      "https://script.google.com/macros/s/AKfycbyxaVyxdW3d5kdebqfI5N_Wf6iNmOXDnC7eWQmB-GoKEGJSfGwdfDB88M1e_AllKGgW/exec",
+      "https://script.google.com/macros/s/AKfycbyHN5iVsKqokzUtLUzPCsc7Px4LXu1gAslsTPKOGw1EkYjf5sM6EQTijTBcBd7Jmlpi/exec",
       {
         method: "POST",
         headers: {
