@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Warehouse Associate",
+    "location": "Mumbai",
+    "type": "Full-Time",
+    "description": "Responsible for loading/unloading goods, inventory checks, and maintaining cleanliness in the warehouse."
+  },
+  {
+    "id": 2,
+    "title": "Logistics Coordinator",
+    "location": "Pune",
+    "type": "Contract",
+    "description": "Coordinate transportation, liaise with clients, and maintain delivery schedules."
+  }
+]
