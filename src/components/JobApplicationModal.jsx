@@ -52,7 +52,7 @@ export default function JobApplicationModal({ isOpen, job, onClose }) {
 
 
         const text = await response.text();
-        console.log("Google Sheets response:", text);
+        // console.log("Google Sheets response:", text);
 
         alert("Application submitted successfully!");
         onClose(); // close modal
